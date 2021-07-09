@@ -5,4 +5,5 @@
 ## Item 2
 
 - Do this
-- Do that
+- Do another thing
+- ~~Do that~~
